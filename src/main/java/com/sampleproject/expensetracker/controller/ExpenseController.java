@@ -10,4 +10,5 @@ public class ExpenseController {
     private String getAllExpenses() {
         return "List of expenses";
     }
+
 }
